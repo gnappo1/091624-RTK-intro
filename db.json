@@ -1,0 +1,76 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Grocery Shopping",
+            "body": "Buy groceries for the week: milk, bread, eggs, and vegetables.",
+            "deadline": "September 3rd"
+        },
+        {
+            "id": 2,
+            "title": "Doctor's Appointment",
+            "body": "Annual check-up at the clinic. Bring insurance card.",
+            "deadline": "September 5th"
+        },
+        {
+            "id": 3,
+            "title": "Finish Project Report",
+            "body": "Complete and submit the project report for the client by the end of the week.",
+            "deadline": "September 7th"
+        },
+        {
+            "id": 4,
+            "title": "Car Maintenance",
+            "body": "Take the car for an oil change and tire rotation.",
+            "deadline": "September 10th"
+        },
+        {
+            "id": 5,
+            "title": "Team Meeting",
+            "body": "Prepare presentation slides for the team meeting.",
+            "deadline": "September 12th"
+        },
+        {
+            "id": 6,
+            "title": "Book Club",
+            "body": "Read chapters 4-6 of the assigned book for the next book club meeting.",
+            "deadline": "September 15th"
+        },
+        {
+            "id": 7,
+            "title": "Plan Weekend Getaway",
+            "body": "Research and book a hotel for the weekend trip.",
+            "deadline": "September 18th"
+        },
+        {
+            "id": 8,
+            "title": "Pay Utility Bills",
+            "body": "Pay electricity and water bills online before the due date.",
+            "deadline": "September 20th"
+        },
+        {
+            "id": 9,
+            "title": "Renew Driver's License",
+            "body": "Visit the DMV to renew the driver's license before it expires.",
+            "deadline": "September 22nd"
+        },
+        {
+            "id": 10,
+            "title": "Client Feedback Session",
+            "body": "Schedule and conduct a feedback session with the client.",
+            "deadline": "September 25th"
+        },
+        {
+            "id": 11,
+            "title": "Organize Garage",
+            "body": "Clean and organize the garage, donate unused items.",
+            "deadline": "September 28th"
+        },
+        {
+            "id": 12,
+            "title": "Family Dinner",
+            "body": "Plan and cook a special dinner for the family gathering.",
+            "deadline": "September 30th"
+        }
+    ]
+}
