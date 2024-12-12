@@ -1,16 +1,12 @@
 /* eslint-disable react/prop-types */
 
 import { useState } from "react";
-import { useSelector, useDispatch } from "react-redux";
-import { reset } from "./todoSlice";
+// import { useSelector, useDispatch } from "react-redux";
 
 const TodoNotes = () => {
     const [open, setOpen] = useState(false)
-    const dispatch = useDispatch();
-    const note = useSelector((state) => state.todo.note)
 
     const handleClick = (e) => {
-      dispatch(reset());
       setOpen(false)
     };
 
@@ -22,8 +18,8 @@ const TodoNotes = () => {
             {open && (
                 <>
                     <h2>Temporary Note</h2>
-                    <span>{note}</span><br />
-                    {note && <button onClick={handleClick}>Reset</button>}
+                    <span></span><br />
+                    {"true" && <button onClick={handleClick}>Reset</button>}
                 </>
             )}
         </div>
